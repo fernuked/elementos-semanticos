@@ -1,0 +1,43 @@
+/*un comentario de css */
+body {
+    background-color: #ffc7e7;
+}
+/*
+Anatomia del css
+
+selector {
+    propiedad: valor;
+    propiedad: valor;
+
+}
+*/
+
+/* selectores por etiqueta HTML */
+
+h1 {
+    color:rgba(236, 14, 118, 0.322);
+}
+
+em {
+    color: #801515
+}
+
+h2 {
+    color:rgb(253, 183, 187)
+}
+
+p {
+    color:rgb(197, 54, 66);
+}
+
+#parrafo {
+    background-color: rgb(255, 255, 255);
+}
+
+/* imagen */
+#foto mendoza {
+    /* ancho */
+    width: 550px;
+    /* alto */
+    height: 300px;
+}
