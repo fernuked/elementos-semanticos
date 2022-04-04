@@ -33,7 +33,17 @@ p {
 #parrafo {
     background-color: rgb(255, 255, 255);
 }
+table {
+    background-color: #f5dae9;
+    width: 100%;
+}
+tr {
+    background-color: #f176bc;
+}
 
+td {
+    background-color: #fbfbfb71;
+}
 /* imagen */
 #foto mendoza {
     /* ancho */
